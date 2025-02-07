@@ -95,10 +95,6 @@ header h1, header .h1 {
   --bs-btn-padding-x: 1rem;
 }
 
-.btn {
-  background-color: #ffffff;
-}
-
 html,
     body {
       position: relative;
